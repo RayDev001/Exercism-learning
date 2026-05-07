@@ -56,5 +56,11 @@ This repository contains my solutions to the challenges from the [Python Track](
 | [Resistor Color](./solutions/python/resistor-color/2/resistor_color.py) | Lists | 2 | ✅ Done |
 | [Chaitana's Colossal Coaster](./solutions/python/chaitanas-colossal-coaster/1/list_methods.py) | List Methods | 1 | ✅ Done |
 
+### 🔴 Loops and Iterations
+
+| Exercise | Concept | Iterations | Status |
+| :--- | :--- | :---: | :---: |
+| [Making the Grade](./solutions/python/making-the-grade/3/loops.py) | Loops | 3 | ✅ Done |
+
 ---
 *Follow my progress on [Exercism.org](https://exercism.org/profiles/RayDev001)*
