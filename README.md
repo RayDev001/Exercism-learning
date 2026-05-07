@@ -1,4 +1,7 @@
-# Exercism Python Track 🐍
+
+<img align="left" width="90" height="90" src="https://github.com/exercism/website-icons/blob/main/tracks/python.svg">
+<p vertical-align="middle"><h1>Exercism Python Track</h1></p>
+
 
 This repository contains my solutions to the challenges from the [Python Track](https://exercism.org/tracks/python/concepts) on Exercism. I am using this track to build a solid foundation in Python through test-driven development.
 
@@ -18,46 +21,40 @@ This repository contains my solutions to the challenges from the [Python Track](
 
 | Exercise | Concept | Iterations | Status |
 | :--- | :--- | :---: | :---: |
-| Guido's Gorgeous Lasagna | Basics | 3 | ✅ Done |
-| Currency Exchange | Numbers | 1 | ✅ Done |
-| Collatz Conjecture | Numbers | 1 | ✅ Done |
-| Grains | Numbers | 5 | ✅ Done |
-| Armstrong Numbers | Numbers | 1 | ✅ Done |
+| [Guido's Gorgeous Lasagna](./solutions/python/guidos-gorgeous-lasagna/3/lasagna.py) | Basics | 3 | ✅ Done |
+| [Currency Exchange](./solutions/python/currency-exchange/1/exchange.py) | Numbers | 1 | ✅ Done |
+| [Collatz Conjecture](./solutions/python/collatz-conjecture/1/collatz_conjecture.py) | Numbers | 1 | ✅ Done |
+| [Grains](./solutions/python/grains/5/grains.py) | Numbers | 5 | ✅ Done |
+| [Armstrong Numbers](./solutions/python/armstrong-numbers/1/armstrong_numbers.py) | Numbers | 1 | ✅ Done |
 
 ### 🔵 Logic & Comparisons
 
 | Exercise | Concept | Iterations | Status |
 | :--- | :--- | :---: | :---: |
-| [Ghost Gobble Arcade Game](./solutions/python/) | Bools | 2 | ✅ Done |
-| Triangle | Bools | 1 | ✅ Done |
-| Leap | Bools | 1 | ✅ Done |
-| Black Jack | Comparisons | 3 | ✅ Done |
-| Darts | Comparisons | 1 | ✅ Done |
+| [Ghost Gobble Arcade Game](./solutions/python/ghost-gobble-arcade-game/2/arcade_game.py) | Bools | 2 | ✅ Done |
+| [Triangle](./solutions/python/triangle/1/triangle.py) | Bools | 1 | ✅ Done |
+| [Leap](./solutions/python/leap/1/leap.py) | Bools | 1 | ✅ Done |
+| [Black Jack](./solutions/python/black-jack/3/black_jack.py) | Comparisons | 3 | ✅ Done |
+| [Darts](./solutions/python/dats/1/darts.py) | Comparisons | 1 | ✅ Done |
 
 ### 🟡 Conditionals & Strings
 
 | Exercise | Concept | Iterations | Status |
 | :--- | :--- | :---: | :---: |
-| Meltdown Mitigation | Conditionals | 2 | ✅ Done |
-| Bob | Conditionals | 6 | ✅ Done |
-| Raindrops | Conditionals | 1 | ✅ Done |
-| Pig Latin | Conditionals | - | ⏳ Available |
-| Matching Brackets | Conditionals | - | 🔒 Locked |
-| Little Sister's Vocabulary | Strings | 3 | ✅ Done |
-| Little Sister's Essay | String Methods | 1 | ✅ Done |
+| [Meltdown Mitigation](./solutions/python/meltdown-mitigation/2/conditionals.py) | Conditionals | 2 | ✅ Done |
+| [Bob](./solutions/python/bob/6/bob.py) | Conditionals | 6 | ✅ Done |
+| [Raindrops](./solutions/python/raindrops.py) | Conditionals | 1 | ✅ Done |
+| [Little Sister's Vocabulary](./solutions/python/little-sisters-vocab/3/strings.py) | Strings | 3 | ✅ Done |
+| [Little Sister's Essay](./solutions/python/little-sisters-essay/1/string_methods.py) | String Methods | 1 | ✅ Done |
 | Isogram | Strings | - | 🚧 In Progress |
-| Rotational Cipher | Strings | - | ⏳ Available |
-| Pangram | Strings | - | ⏳ Available |
-| ISBN Verifier | Strings | - | ⏳ Available |
 
 ### 🟣 Lists & Data Structures
 
 | Exercise | Concept | Iterations | Status |
 | :--- | :--- | :---: | :---: |
-| Card Games | Lists | 2 | ✅ Done |
-| Resistor Color | Lists | 2 | ✅ Done |
-| Chaitana's Colossal Coaster | List Methods | 1 | ✅ Done |
-| Spiral Matrix | Lists | - | 🔒 Locked |
+| [Card Games](./solutions/python/card-games/2/lists.py) | Lists | 2 | ✅ Done |
+| [Resistor Color](./solutions/python/resistor-color/2/resistor_color.py) | Lists | 2 | ✅ Done |
+| [Chaitana's Colossal Coaster](./solutions/python/chaitanas-colossal-coaster/1/list_methods.py) | List Methods | 1 | ✅ Done |
 
 ---
 *Follow my progress on [Exercism.org](https://exercism.org/profiles/RayDev001)*
