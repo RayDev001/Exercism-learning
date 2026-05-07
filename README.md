@@ -35,7 +35,7 @@ This repository contains my solutions to the challenges from the [Python Track](
 | [Triangle](./solutions/python/triangle/1/triangle.py) | Bools | 1 | ✅ Done |
 | [Leap](./solutions/python/leap/1/leap.py) | Bools | 1 | ✅ Done |
 | [Black Jack](./solutions/python/black-jack/3/black_jack.py) | Comparisons | 3 | ✅ Done |
-| [Darts](./solutions/python/dats/1/darts.py) | Comparisons | 1 | ✅ Done |
+| [Darts](./solutions/python/darts/1/darts.py) | Comparisons | 1 | ✅ Done |
 
 ### 🟡 Conditionals & Strings
 
@@ -43,7 +43,7 @@ This repository contains my solutions to the challenges from the [Python Track](
 | :--- | :--- | :---: | :---: |
 | [Meltdown Mitigation](./solutions/python/meltdown-mitigation/2/conditionals.py) | Conditionals | 2 | ✅ Done |
 | [Bob](./solutions/python/bob/6/bob.py) | Conditionals | 6 | ✅ Done |
-| [Raindrops](./solutions/python/raindrops.py) | Conditionals | 1 | ✅ Done |
+| [Raindrops](./solutions/python/raindrops/1/raindrops.py) | Conditionals | 1 | ✅ Done |
 | [Little Sister's Vocabulary](./solutions/python/little-sisters-vocab/3/strings.py) | Strings | 3 | ✅ Done |
 | [Little Sister's Essay](./solutions/python/little-sisters-essay/1/string_methods.py) | String Methods | 1 | ✅ Done |
 | Isogram | Strings | - | 🚧 In Progress |
