@@ -9,7 +9,7 @@ This repository contains my solutions to the challenges from the [Python Track](
 
 ## 📊 Track Progress
 
-*   **Language:** Python 3
+*   **Language:** Python
 *   **Track Status:** Active Learning
 *   **Goal:** Clean code, idiomatic Python (PEP 8), and problem-solving.
 
@@ -44,9 +44,10 @@ This repository contains my solutions to the challenges from the [Python Track](
 | [Meltdown Mitigation](./solutions/python/meltdown-mitigation/2/conditionals.py) | Conditionals | 2 | ✅ Done |
 | [Bob](./solutions/python/bob/6/bob.py) | Conditionals | 6 | ✅ Done |
 | [Raindrops](./solutions/python/raindrops/1/raindrops.py) | Conditionals | 1 | ✅ Done |
+| [Pig Latin](./solutions/python/pig-latin/4/pig_latin.py) | Conditionals | 4 | ✅ Done |
 | [Little Sister's Vocabulary](./solutions/python/little-sisters-vocab/3/strings.py) | Strings | 3 | ✅ Done |
 | [Little Sister's Essay](./solutions/python/little-sisters-essay/1/string_methods.py) | String Methods | 1 | ✅ Done |
-| Isogram | Strings | - | 🚧 In Progress |
+| [Isogram](./solutions/python/isogram/4/isogram.py)| Strings | 4 | ✅ Done |
 
 ### 🟣 Lists & Data Structures
 
