@@ -56,6 +56,7 @@ This repository contains my solutions to the challenges from the [Python Track](
 | [Card Games](./solutions/python/card-games/2/lists.py) | Lists | 2 | ✅ Done |
 | [Resistor Color](./solutions/python/resistor-color/2/resistor_color.py) | Lists | 2 | ✅ Done |
 | [Chaitana's Colossal Coaster](./solutions/python/chaitanas-colossal-coaster/1/list_methods.py) | List Methods | 1 | ✅ Done |
+| [Tisbury Treasure Hunt](./solutions/python/tisbury-treasure-hunt/2/tuples.py) | Tuples | 2 | ✅ Done |
 
 ### 🔴 Loops and Iterations
 
